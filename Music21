@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1,MU | CONCERT CHANNEL
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/42169
+#EXTINF:-1,MU | HTV
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/8804
+#EXTINF:-1,MU | MTV
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/8805
+#EXTINF:-1,MU | MTV (nx)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/47733
+#EXTINF:-1,MU | MTV (R)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/36690
+#EXTINF:-1,MU | MTV HITS
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/8806
+#EXTINF:-1,MU | MTV Live HD
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/8807
+#EXTINF:-1,MU | VH1
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/8809
+#EXTINF:-1,MU | VH1 CLASICC
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/8810
+#EXTINF:-1,MU| ALTERNATIVA MUSIC
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22665
+#EXTINF:-1,MU| COUNTRY MUSIC CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22670
+#EXTINF:-1,MU| DANCE MUSIC CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22681
+#EXTINF:-1,MU| HIP HOP & R&B CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22678
+#EXTINF:-1,MU| HITS LIST CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22679
+#EXTINF:-1,MU| KIDZ ONLY CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22667
+#EXTINF:-1,MU| MEXICANA CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22675
+#EXTINF:-1,MU| POP & COUNTRY CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22682
+#EXTINF:-1,MU| POP HITS CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22683
+#EXTINF:-1,MU| POP LATINO MUSIC CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22672
+#EXTINF:-1,MU| R&B SOUL MUSIC CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22671
+#EXTINF:-1,MU| RAP MUSIC CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22674
+#EXTINF:-1,MU| ROCK CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22666
+#EXTINF:-1,MU| TODDLER MUSIC CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22668
+#EXTINF:-1,MU| TROPICALES CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22676
+#EXTINF:-1,MU| TROWBACK JAZ CHOICE
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/22673
